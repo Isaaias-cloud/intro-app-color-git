@@ -1,0 +1,10 @@
+.color-box {
+    width: 150px;
+    height: 150px;
+    background-color: #000;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+.controls {
+    width: 300px;
+}
