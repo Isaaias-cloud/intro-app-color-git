@@ -1,10 +1,13 @@
+/* 📌 Estilos para la caja de color */
 .color-box {
-    width: 150px;
-    height: 150px;
-    background-color: #000;
-    border: 2px solid #ddd;
-    border-radius: 10px;
+    width: 150px; /* Ancho de la caja */
+    height: 150px; /* Alto de la caja */
+    background-color: #000; /* Color de fondo inicial (negro) */
+    border: 2px solid #ddd; /* Borde con color gris claro */
+    border-radius: 10px; /* Bordes redondeados */
 }
+
+/* 📌 Contenedor de los controles (sliders y entradas numéricas) */
 .controls {
-    width: 300px;
+    width: 300px; /* Ancho del contenedor de controles */
 }
